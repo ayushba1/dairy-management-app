@@ -203,7 +203,7 @@ export default function HomePage() {
               </div>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-gray-400">© 2024 DairyTrack. Built for farmers, by farmers.</p>
+              <p className="text-gray-400">© 2025 DairyTrack. Built for farmers, by Ayush Kumar.</p>
             </div>
           </div>
         </div>
