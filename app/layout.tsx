@@ -6,8 +6,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Dairy-Management-App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: 'Created with ayush',
+  generator: 'ayush.app',
 }
 
 export default function RootLayout({
